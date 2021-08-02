@@ -5,7 +5,7 @@
 {
 	const scriptsInEvents = {
 
-		async Egameplay_Event7_Act1(runtime, localVars)
+		async Egameplay_Event5_Act1(runtime, localVars)
 		{
 			function shuffle(s) {
 			  var arr = s.split('');           // Convert String to array
@@ -19,12 +19,12 @@
 			localVars["text"] = shuffle(localVars["text"]);
 		},
 
-		async Egameplay_Event26_Act1(runtime, localVars)
+		async Egameplay_Event24_Act1(runtime, localVars)
 		{
 			localVars["returnValue"] = localVars["letter"].charCodeAt(0) - 64;
 		},
 
-		async Egameplay_Event28_Act1(runtime, localVars)
+		async Egameplay_Event26_Act1(runtime, localVars)
 		{
 			localVars["returnValue"] = String.fromCharCode(localVars["frame_no"]+64)
 			

@@ -3327,7 +3327,7 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 		C3.Plugins.AJAX.Cnds.OnComplete,
 		C3.Plugins.Json.Acts.Parse,
 		C3.Plugins.AJAX.Exps.LastData,
-		C3.ScriptsInEvents.Egameplay_Event7_Act1,
+		C3.ScriptsInEvents.Egameplay_Event5_Act1,
 		C3.Plugins.System.Acts.SetFunctionReturnValue,
 		C3.Plugins.Arr.Acts.SetSize,
 		C3.Plugins.Arr.Acts.Clear,
@@ -3347,9 +3347,9 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 		C3.Plugins.Sprite.Acts.ZMoveToObject,
 		C3.Plugins.System.Exps.uppercase,
 		C3.Plugins.System.Exps.max,
-		C3.ScriptsInEvents.Egameplay_Event26_Act1,
+		C3.ScriptsInEvents.Egameplay_Event24_Act1,
 		C3.Plugins.Browser.Acts.ConsoleLog,
-		C3.ScriptsInEvents.Egameplay_Event28_Act1,
+		C3.ScriptsInEvents.Egameplay_Event26_Act1,
 		C3.Plugins.System.Cnds.CompareVar,
 		C3.Plugins.Arr.Cnds.CompareX,
 		C3.Plugins.System.Acts.StopLoop,
@@ -3366,6 +3366,7 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 		C3.Plugins.Touch.Cnds.OnTouchObject,
 		C3.Behaviors.Tween.Cnds.IsAnyPlaying,
 		C3.Plugins.System.Cnds.ForEach,
+		C3.Plugins.Sprite.Cnds.OnCreated,
 		C3.Plugins.Sprite.Cnds.CompareFrame
 		];
 	};
@@ -3475,11 +3476,13 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 		{MaxRiddlePanelY: 0},
 		{text: 0},
 		{letter: 0},
+		{loopc1: 0},
 		{rand_ind: 0},
 		{centerX: 0},
 		{width: 0},
 		{loopc2: 0},
 		{letter_index: 0},
+		{options_count: 0},
 		{AnswerLength: 0},
 		{returnValue: 0},
 		{frame_no: 0},
@@ -3727,7 +3730,6 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 			const f1 = p._GetNode(1).GetBoundMethod();
 			return () => f0((and("String.fromCharCode(64+", f1()) + ")"));
 		},
-		() => 14,
 		() => "",
 		p => {
 			const n0 = p._GetNode(0);
@@ -3761,18 +3763,18 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 			const v2 = p._GetNode(2).GetVar();
 			return () => and(v0.GetValue(), n1.ExpObject(v2.GetValue()));
 		},
-		() => "row",
 		p => {
 			const v0 = p._GetNode(0).GetVar();
 			const v1 = p._GetNode(1).GetVar();
-			return () => (Math.ceil((v0.GetValue() / v1.GetValue())) - 1);
+			return () => Math.ceil((v0.GetValue() / v1.GetValue()));
 		},
+		() => "row",
 		p => {
 			const v0 = p._GetNode(0).GetVar();
 			const v1 = p._GetNode(1).GetVar();
 			const v2 = p._GetNode(2).GetVar();
 			const v3 = p._GetNode(3).GetVar();
-			return () => (((((v0.GetValue() - v1.GetValue())) >= (0) ? 1 : 0)) ? ((v2.GetValue() - 1)) : ((v3.GetValue() - 1)));
+			return () => (((((v0.GetValue() - v1.GetValue())) >= (0) ? 1 : 0)) ? (v2.GetValue()) : (v3.GetValue()));
 		},
 		() => "col",
 		() => "Options",
@@ -3784,7 +3786,7 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 			const f4 = p._GetNode(4).GetBoundMethod();
 			const v5 = p._GetNode(5).GetVar();
 			const v6 = p._GetNode(6).GetVar();
-			return () => ((v0.GetValue() - ((v1.GetValue() - 1) * ((v2.GetValue() + v3.GetValue()) / 2))) + (f4() * (v5.GetValue() + v6.GetValue())));
+			return () => ((v0.GetValue() - ((v1.GetValue() - 1) * ((v2.GetValue() + v3.GetValue()) / 2))) + (f4("col") * (v5.GetValue() + v6.GetValue())));
 		},
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
@@ -3821,10 +3823,19 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 			const f2 = p._GetNode(2).GetBoundMethod();
 			return () => f0(v1.GetValue(), f2(), 1);
 		},
+		p => {
+			const v0 = p._GetNode(0).GetVar();
+			const v1 = p._GetNode(1).GetVar();
+			const v2 = p._GetNode(2).GetVar();
+			const v3 = p._GetNode(3).GetVar();
+			const f4 = p._GetNode(4).GetBoundMethod();
+			const v5 = p._GetNode(5).GetVar();
+			const v6 = p._GetNode(6).GetVar();
+			return () => ((v0.GetValue() - ((v1.GetValue() - 1) * ((v2.GetValue() + v3.GetValue()) / 2))) + (f4() * (v5.GetValue() + v6.GetValue())));
+		},
 		() => 480,
 		() => 20,
 		() => 44,
-		() => "GamePlay",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			const v1 = p._GetNode(1).GetVar();
@@ -3836,6 +3847,7 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 			const v1 = p._GetNode(1).GetVar();
 			return () => n0.ExpObject(and(v1.GetValue(), ".question"));
 		},
+		() => "GamePlay",
 		() => "empty_place",
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
@@ -3938,9 +3950,9 @@ newY);wi.SetBboxChanged()}}else if(this._axes===1){if(wi.GetX()!==newX){wi.SetX(
 			const v4 = p._GetNode(4).GetVar();
 			return () => and(n0.ExpInstVar(), ((n1.ExpInstVar()) === (f2(v3.GetValue(), v4.GetValue(), 1)) ? 1 : 0));
 		},
-		() => 0.25,
-		() => 0.7,
-		() => 0.2
+		() => 0.2,
+		() => 0.45,
+		() => 0.25
 	];
 }
 
