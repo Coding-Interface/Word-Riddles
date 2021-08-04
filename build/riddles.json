@@ -1,0 +1,752 @@
+[
+	{
+		"id":"0",
+		"question":"I begin your sentences. What am I?",
+		"answer":"Capital"
+	},
+	{
+		"id":"1",
+		"question":"If I drink, I die, if I eat, I'm fine. What am I?",
+		"answer":"Fire"
+	},
+	{
+		"id":"2",
+		"question":"Cloud is my mother, wind is my father.I come down but never go up. What am I?",
+		"answer":"Rain"
+	},
+	{
+		"id":"3",
+		"question":"I repeat only the last word you say. The more I repeat, the softer I got. I cannot be seen but can be heard. What am I?",
+		"answer":"Echo"
+	},
+	{
+		"id":"4",
+		"question":"What color can you eat?",
+		"answer":"Orange"
+	},
+	{
+		"id":"5",
+		"question":"What body part is pronounced as one letter but written with three, only two different letters are used??",
+		"answer":"eye"
+	},
+	{
+		"id":"6",
+		"question":"You are my brother, but I am not your brother. Who am I?",
+		"answer":"Sister"
+	},
+	{
+		"id":"7",
+		"question":"The answer for I shrink smaller every time I take a bath. What am I?",
+		"answer":"Soap"
+	},
+	{
+		"id":"8",
+		"question":"I sleep by day, I fly by night. I have no feathers to aid my flight. What am I?",
+		"answer":"Bat"
+	},
+	{
+		"id":"9",
+		"question":"What starts with the letter t, is filled with t and ends in t?",
+		"answer":"Teapot"
+	},
+	{
+		"id":"10",
+		"question":"I belong to you but others use me more often than you do. What am I?",
+		"answer":"Name"
+	},
+	{
+		"id":"11",
+		"question":"I am an odd number. Take away one letter and I become even. What number am I?",
+		"answer":"Seven"
+	},
+	{
+		"id":"12",
+		"question":"What is an astronaut's favorite key on a keyboard?",
+		"answer":"Space"
+	},
+	{
+		"id":"13",
+		"question":"They come out at night without being called.They are lost in the day without being stolen. What are they?",
+		"answer":"Stars"
+	},
+	{
+		"id":"14",
+		"question":"What has a head and a tail, but no body or legs?",
+		"answer":"Coin"
+	},
+	{
+		"id":"15",
+		"question":"What has teeth but no mouth?",
+		"answer":"Saw"
+	},
+	{
+		"id":"16",
+		"question":"I am easy to waste and unstoppable. What am I?",
+		"answer":"Coin"
+	},
+	{
+		"id":"17",
+		"question":"What has a head and a tail, but no body or legs?",
+		"answer":"Time"
+	},
+	{
+		"id":"18",
+		"question":"I start with “e” end with “e”. I have whole countries inside me. What am I?",
+		"answer":"Europe"
+	},
+	{
+		"id":"19",
+		"question":"I have a face and two hands but I have no arms and legs six plus seven is one what am I?",
+		"answer":"Clock"
+	},
+	{
+		"id":"20",
+		"question":"What comes in many different sizes but is always only 1 foot long?",
+		"answer":"Shoe"
+	},
+	{
+		"id":"21",
+		"question":"I can be cracked, made, told, and played. What am I?",
+		"answer":"Joke"
+	},
+	{
+		"id":"22",
+		"question":"What building has the most stories?",
+		"answer":"Library"
+	},
+	{
+		"id":"23",
+		"question":"Tuesday, Sam and Peter went to a restaurant to eat lunch. After eating lunch, they paid the bill.Sam and Peter did not pay the bill, so who did?",
+		"answer":"Tuesday"
+	},
+	{
+		"id":"24",
+		"question":"What kind of tree can you carry in your hand?",
+		"answer":"Palm"
+	},
+	{
+		"id":"25",
+		"question":"What kind of room has no doors or windows?",
+		"answer":"Mushroom"
+	},
+	{
+		"id":"26",
+		"question":"I'm an animal. I love marching. I always wear a tuxedo. What am I?",
+		"answer":"Penguin"
+	},
+	{
+		"id":"27",
+		"question":"Roast,boast, coast,post. what do you put in a toaster?",
+		"answer":"Bread"
+	},
+	{
+		"id":"28",
+		"question":"Tear one off and scratch my head, what once was red is black instead! What is it?",
+		"answer":"Match "
+	},
+	{
+		"id":"29",
+		"question":"I have four fingers and a thumb but I'm not living. What am I?",
+		"answer":"Glove"
+	},
+	{
+		"id":"30",
+		"question":"What starts with “p” and ends with “orn” and is really popular in the movie industry?",
+		"answer":"Popcorn"
+	},
+	{
+		"id":"31",
+		"question":"What word begins and ends with an 'E' but only has one letter?",
+		"answer":"Envelope"
+	},
+	{
+		"id":"32",
+		"question":"What is full of holes but still holds water?",
+		"answer":"Sponge"
+	},
+	{
+		"id":"33",
+		"question":"You hold my tail while I fish for you. What am I?",
+		"answer":"Net"
+	},
+	{
+		"id":"34",
+		"question":"What can you catch but not throw?",
+		"answer":"Cold"
+	},
+	{
+		"id":"35",
+		"question":"What can hold a car but can't lift a feather?",
+		"answer":"Garage"
+	},
+	{
+		"id":"36",
+		"question":"What invention lets you look right through a wall?",
+		"answer":"Window"
+	},
+	{
+		"id":"37",
+		"question":"The more it dries, the wetter it becomes. What is it?",
+		"answer":"Towel"
+	},
+	{
+		"id":"38",
+		"question":"What gets bigger the more you take away from it?",
+		"answer":"Hole"
+	},
+	{
+		"id":"39",
+		"question":"What is so delicate that saying its name breaks it?",
+		"answer":"Silence"
+	},
+	{
+		"id":"40",
+		"question":"I have six faces but not even one body connected, 21 eyes in total but cannot see. What am I?",
+		"answer":"Dice"
+	},
+	{
+		"id":"41",
+		"question":"The answer for If two is Company and three is a Crowd, What are four and five?",
+		"answer":"Nine"
+	},
+	{
+		"id":"42",
+		"question":"What is the saddest fruit?",
+		"answer":"Blueberry"
+	},
+	{
+		"id":"43",
+		"question":"I have a neck but no head. I have a body but no arm. I have a bottom but no leg. What am I?",
+		"answer":"Bottle"
+	},
+	{
+		"id":"44",
+		"question":"Poor people have it. Rich people need it. If you eat it you die. what is it?",
+		"answer":"Nothing"
+	},
+	{
+		"id":"45",
+		"question":"You walk into a room with a rabbit holding a carrot, a pig eating slop, and a chimp holding a banana.Which animal in the room is the smartest animal in the room?",
+		"answer":"You"
+	},
+	{
+		"id":"46",
+		"question":"What has to be broken before you can use it?",
+		"answer":"Egg"
+	},
+	{
+		"id":"47",
+		"question":"I am gentle enough to soothe your skin, light enough to fly in the sky, strong enough to crack rocks. What am I?",
+		"answer":"Water"
+	},
+	{
+		"id":"48",
+		"question":"I have a neck and no head, two arms but no hands. I'm with you to school, I'm with you to work. What am I??",
+		"answer":"Shirt"
+	},
+	{
+		"id":"49",
+		"question":"I walk on 4 legs when I was little, 2 legs when I was strong, and 3 legs when I was old. What am I?",
+		"answer":"Human"
+	},
+	{
+		"id":"50",
+		"question":"What side of a cat has the most fur?",
+		"answer":"outside"
+	},
+	{
+		"id":"51",
+		"question":"What is easy to get into, but hard to get out of?",
+		"answer":"Trouble"
+	},
+	{
+		"id":"52",
+		"question":"What gets broken without being held?",
+		"answer":"Promise"
+	},
+	{
+		"id":"53",
+		"question":"I'm tall when I'm young. I'm short when I'm old. I can light up your world. What am I?",
+		"answer":"Candle"
+	},
+	{
+		"id":"54",
+		"question":"What do you get when you mix lemons with gunpowder?",
+		"answer":"Lemonades"
+	},
+	{
+		"id":"55",
+		"question":"Mr.Red lives in the red house.Mr.Blue lives in the blue house. Mrs. Pink lives in the pink house? Who lives in the white house?",
+		"answer":"President"
+	},
+	{
+		"id":"56",
+		"question":"I have an eye, but can't see. I usually have to work with something in my eye. What am I?",
+		"answer":"Needle"
+	},
+	{
+		"id":"57",
+		"question":"Given them to the girls whenever, And they'll be best friends forever. Shiny, pretty stones, Bought with massive loans.",
+		"answer":"Diamonds"
+	},
+	{
+		"id":"58",
+		"question":"I am lighter than air but a hundred people cannot lift me. Careful, I am fragile. What am I?",
+		"answer":"Bubble"
+	},
+	{
+		"id":"59",
+		"question":"When you take away the whole from me, there is always some left. What am I?",
+		"answer":"Wholesome"
+	},
+	{
+		"id":"60",
+		"question":"What can travel around the world while staying in a corner?",
+		"answer":"Stamp"
+	},
+	{
+		"id":"61",
+		"question":"What goes through towns and over hills but never moves?",
+		"answer":"Road"
+	},
+	{
+		"id":"62",
+		"question":"What time of day, when written in a capital letters, is the same forwards, backwards and upside down?",
+		"answer":"Noon"
+	},
+	{
+		"id":"63",
+		"question":"I am a kind of coat that can only be put on when wet. What am I?",
+		"answer":"Paint"
+	},
+	{
+		"id":"64",
+		"question":"Soft, hairy, from door to door. I am the pet that always stays on the floor. What am I?",
+		"answer":"Carpet"
+	},
+	{
+		"id":"65",
+		"question":"What is it that is deaf, dumb and blind and always tells the truth?",
+		"answer":"Mirror"
+	},
+	{
+		"id":"66",
+		"question":"I cannot be other than what I am, until the man who made me dies. Power and glory will fall to me, only when he last closes his eyes. Who am I?",
+		"answer":"Prince"
+	},
+	{
+		"id":"67",
+		"question":"What three letters change a boy into a man?",
+		"answer":"Age"
+	},
+	{
+		"id":"68",
+		"question":"The last man on Earth received a phone call, who was the caller?",
+		"answer":"Woman "
+	},
+	{
+		"id":"69",
+		"question":"Tear off my skin and I won't cry but you will. What am I?",
+		"answer":"Onion"
+	},
+	{
+		"id":"70",
+		"question":"What is harder to catch the faster you run?",
+		"answer":"Breath"
+	},
+	{
+		"id":"71",
+		"question":"Never resting, never still, Silently moving from hill to hill, I do not walk, run or trot, But all is cool where I am not. What am I?",
+		"answer":"Sunshine"
+	},
+	{
+		"id":"72",
+		"question":"I cannot be burned in fire or drowned in water. What am I?",
+		"answer":"Ice"
+	},
+	{
+		"id":"73",
+		"question":"I'm a word that is not even strange. What am I?",
+		"answer":"Odd"
+	},
+	{
+		"id":"74",
+		"question":"What gets sharper the more you use it?",
+		"answer":"Brain"
+	},
+	{
+		"id":"75",
+		"question":"Fatherless and Motherless, born without sin. Roared when it entered the world, And never spoke again.What's it?",
+		"answer":"Thunder"
+	},
+	{
+		"id":"76",
+		"question":"Who is the most foreign visitor you could imagine?",
+		"answer":"Alien"
+	},
+	{
+		"id":"77",
+		"question":"I go up and I go down, towards the sky and the ground. I'm present and past tense too, Let's go for a ride, me and you. What am I?",
+		"answer":"Seesaw"
+	},
+	{
+		"id":"78",
+		"question":"What can be heard in court or used to carry briefs?",
+		"answer":"Case"
+	},
+	{
+		"id":"79",
+		"question":"If you are looking for I touch the Earth, I touch the sky, but if I touch you, you'll likely die. What am I?",
+		"answer":"Lightning"
+	},
+	{
+		"id":"80",
+		"question":"Walk on the living, they don't even mumble, Walk on the dead, they mutter and grumble. What are they?",
+		"answer":"Leaves"
+	},
+	{
+		"id":"81",
+		"question":"I have a head but never weeps. I have a bed but never sleep. I can run but never walks. I have a bank but no money. What am I?",
+		"answer":"River"
+	},
+	{
+		"id":"82",
+		"question":"Mr.and Mrs. Mustard have five daughters and each daughter has one brother. How many people are in the Mustard family?",
+		"answer":"Eight"
+	},
+	{
+		"id":"83",
+		"question":"Fashions change but what can a person wear that is never out of style?",
+		"answer":"Smile"
+	},
+	{
+		"id":"84",
+		"question":"If you drop a yellow hat in the Red Sea what does it become?",
+		"answer":"Wet"
+	},
+	{
+		"id":"85",
+		"question":"I cover what is real and hide what is true, But sometimes I bring out the courage in you. What am I?",
+		"answer":"Makeup"
+	},
+	{
+		"id":"86",
+		"question":"Who is your mother's only sister's son's brother's aunt's daughter's sister's father?",
+		"answer":"Father"
+	},
+	{
+		"id":"87",
+		"question":"What goes in the water black and comes out red?",
+		"answer":"Lobster"
+	},
+	{
+		"id":"88",
+		"question":"What has 88 keys but can't open a single door?",
+		"answer":"Piano"
+	},
+	{
+		"id":"89",
+		"question":"What always goes to bed with its shoes on?",
+		"answer":"Horse"
+	},
+	{
+		"id":"90",
+		"question":"You cannot keep me until you have given me. What am I?",
+		"answer":"Word"
+	},
+	{
+		"id":"91",
+		"question":"What type of house weighs the least?",
+		"answer":"Lighthouse"
+	},
+	{
+		"id":"92",
+		"question":"What do you call a boomerang that doesn't come back?",
+		"answer":"Stick"
+	},
+	{
+		"id":"93",
+		"question":"I can fly but have no wings. I can cry but I have no eyes. Wherever I go, darkness follows me. What am I?",
+		"answer":"Cloud"
+	},
+	{
+		"id":"94",
+		"question":"What jumps when it walks and sits when it stands?",
+		"answer":"kangaroo"
+	},
+	{
+		"id":"95",
+		"question":"What is black and white and is red all over?",
+		"answer":"Newspaper "
+	},
+	{
+		"id":"96",
+		"question":"Railroad Crossing, look out for the cars. Can you spell that, without any R's?",
+		"answer":"That"
+	},
+	{
+		"id":"97",
+		"question":"The answer for What type of dress can never be worn?",
+		"answer":"Address"
+	},
+	{
+		"id":"98",
+		"question":"If you have it, you don't share it. If you share it, you don't have it. What is it?",
+		"answer":"Secret"
+	},
+	{
+		"id":"99",
+		"question":"A man shaves several times a day, yet he still has a beard. Who is this man?",
+		"answer":"Barber"
+	},
+	{
+		"id":"100",
+		"question":"It flies around all day but never goes anywhere? What is it?",
+		"answer":"Flag"
+	},
+	{
+		"id":"101",
+		"question":"I know a word of letters three. Add two, and fewer there will be. What is the word?",
+		"answer":"Few"
+	},
+	{
+		"id":"102",
+		"question":"With a halo of water and a tongue of wood, stone as skin long I stood. What am I?",
+		"answer":"Castle"
+	},
+	{
+		"id":"103",
+		"question":"You do not want me when you don't have me, but when you have me you don't want to lose me. What am I?",
+		"answer":"Lawsuit"
+	},
+	{
+		"id":"104",
+		"question":"What goes around and around the wood but never goes into the wood?",
+		"answer":"Bark"
+	},
+	{
+		"id":"105",
+		"question":"I can make arrows fly. I can make kites soar. What am I?",
+		"answer":"String"
+	},
+	{
+		"id":"106",
+		"question":"I am a seed with three letters in my name. Take away the last two and I still sound the same. What am I?",
+		"answer":"Pea"
+	},
+	{
+		"id":"107",
+		"question":"What can you lose that will cause other people to lose theirs too?",
+		"answer":"Temper"
+	},
+	{
+		"id":"108",
+		"question":"I have roots nobody sees. I am taller than trees Up, Up I go but I never grow. What am I?",
+		"answer":"Mountain"
+	},
+	{
+		"id":"109",
+		"question":"What runs around a soccer field but never moves?",
+		"answer":"Fence"
+	},
+	{
+		"id":"110",
+		"question":"I am always in front of you but yet I am never here. What am I?",
+		"answer":"Future"
+	},
+	{
+		"id":"111",
+		"question":"What can go up a chimney down, but can't go down a chimney up?",
+		"answer":"Umbrella"
+	},
+	{
+		"id":"112",
+		"question":"I am heavy forward, but backwards I'm not. What am I?",
+		"answer":"Ton"
+	},
+	{
+		"id":"113",
+		"question":"If lightning strikes an orchestra who is the one most likely to get hit?",
+		"answer":"Conductor"
+	},
+	{
+		"id":"114",
+		"question":"What is the musical part of a turkey?",
+		"answer":"Drumstick"
+	},
+	{
+		"id":"115",
+		"question":"I'm where yesterday follows today and tomorrow is in the middle. What am I?",
+		"answer":"Dictionary"
+	},
+	{
+		"id":"116",
+		"question":"I have a name written on me, but it isn’t my name. Men plant me, but I never grow. They look at me and see their future, rotting in my bloom. What am I?",
+		"answer":"Tombstone"
+	},
+	{
+		"id":"117",
+		"question":"What do people spend a lot of money on it every year, but never want to use it?",
+		"answer":"Insurance"
+	},
+	{
+		"id":"118",
+		"question":"I have keys but no locks. I have space but no room. You can enter but can't go outside. What am I?",
+		"answer":"keyboard"
+	},
+	{
+		"id":"119",
+		"question":"I am an insect, half of my name is another insect. I am similar to the name of a famous band. What am I?",
+		"answer":"Beetle"
+	},
+	{
+		"id":"120",
+		"question":"I go around in circles, But always straight ahead Never complain, no matter where I am led. What am I?",
+		"answer":"wheel"
+	},
+	{
+		"id":"121",
+		"question":"You can see me in water, but I never get wet. What am I?",
+		"answer":"Reflection"
+	},
+	{
+		"id":"122",
+		"question":"What goes up and down but doesn't move?",
+		"answer":"Staircase"
+	},
+	{
+		"id":"123",
+		"question":"A butcher is 6 feet tall and wears size 12 shoes. What does he weigh?",
+		"answer":"Meat"
+	},
+	{
+		"id":"124",
+		"question":"I ask no questions but receive a lot of answers. What am I?",
+		"answer":"Doorbell "
+	},
+	{
+		"id":"125",
+		"question":"What's orange and sounds like a parrot?",
+		"answer":"Carrot"
+	},
+	{
+		"id":"126",
+		"question":"What's orange and sounds like a parrot?",
+		"answer":"Pitcher"
+	},
+	{
+		"id":"127",
+		"question":"I make billions of dollars selling windows. Who am I?",
+		"answer":"Microsoft"
+	},
+	{
+		"id":"128",
+		"question":"You throw away my outside, you cook my inside. Then you eat my outside and you throw away my inside. What am I?",
+		"answer":"Corn"
+	},
+	{
+		"id":"129",
+		"question":"I am always hungry, I must always be fed, The finger I touch, Will soon turn red.",
+		"answer":"Fire"
+	},
+	{
+		"id":"130",
+		"question":"My rings are not worth much, but they do tell my age. What am I?",
+		"answer":"Tree"
+	},
+	{
+		"id":"131",
+		"question":"What loses its head every morning and gets it back every night?",
+		"answer":"Pillow"
+	},
+	{
+		"id":"132",
+		"question":"Mary's father has 5 daughters. Nana, Nene, Nini, Nono. What is the 5th daughter's name?",
+		"answer":"Mary"
+	},
+	{
+		"id":"133",
+		"question":"I am so simple that I can only point. Yet I guide men all over the world.",
+		"answer":"Compass"
+	},
+	{
+		"id":"134",
+		"question":"Born of sorrow, grows with age,You need a lot to be a sage. What is it?",
+		"answer":"Wisdom"
+	},
+	{
+		"id":"135",
+		"question":"I have one eye, See near and far, I hold the moments you treasure, And the things that make you weep.",
+		"answer":"Camera"
+	},
+	{
+		"id":"136",
+		"question":"He has married many women, but has never been married. Who is he?",
+		"answer":"Priest"
+	},
+	{
+		"id":"137",
+		"question":"I hold two meanings. With one I may be broken, with the other I hold on. What am I?",
+		"answer":"Tie"
+	},
+	{
+		"id":"138",
+		"question":"I am a ship that can be made to ride the greatest waves. I am not built by objects, but built by minds. What am I?",
+		"answer":"Friendship"
+	},
+	{
+		"id":"139",
+		"question":"I am a ship that can be made to ride the greatest waves. I am not built by objects, but built by minds. What am I?",
+		"answer":"Sword"
+	},
+	{
+		"id":"140",
+		"question":"Six letters it contains. Take away the last and only twelve remains. What is the word?",
+		"answer":"Dozens"
+	},
+	{
+		"id":"141",
+		"question":"Who plays when he works and works when he plays?",
+		"answer":"Actor"
+	},
+	{
+		"id":"142",
+		"question":"What goes through a door but never goes in and never comes out?",
+		"answer":"Keyhole"
+	},
+	{
+		"id":"143",
+		"question":"Lighter than what Im made of, more of me is hidden than is seen. What am I?",
+		"answer":"Iceberg"
+	},
+	{
+		"id":"144",
+		"question":"The more you take, the more you leave behind. What are they?",
+		"answer":"Footsteps"
+	},
+	{
+		"id":"145",
+		"question":"What do you call a chicken with no arms, no legs and no body?",
+		"answer":"Head"
+	},
+	{
+		"id":"146",
+		"question":"I can bring tears to your eyes; resurrect the dead, make you smile, and reverse time. I form in an instant but I last a lifetime. What am I?",
+		"answer":"Memory"
+	},
+	{
+		"id":"147",
+		"question":"The more there is the less you see. What is it?",
+		"answer":"Darkness"
+	},
+	{
+		"id":"148",
+		"question":"You have to travel far before you turn it over. What is it?",
+		"answer":"Odometer"
+	},
+	{
+		"id":"149",
+		"question":"What has 3 feet but no toes?",
+		"answer":"Yardstick"
+	}
+]
